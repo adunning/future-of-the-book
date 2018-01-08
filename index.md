@@ -39,3 +39,14 @@ This course builds on the learning outcomes set out in the [Master of Informatio
 # Course materials
 
 Readings are listed below in the course schedule. All required readings are available online via the [Learning Portal](https://portal.utoronto.ca). Over the term, we will read most of Leslie Howsam, ed., *The Cambridge Companion to the History of the Book* (Cambridge: Cambridge University Press, 2014), which you can [access through the University of Toronto's subscription](https://doi-org.myaccess.library.utoronto.ca/10.1017/CCO9781139152242); it is also available as an inexpensive paperback and on the course reserve in the library.
+
+# Class structure
+
+Most classes are divided into two parts:
+
+1. Historical and theoretical discussions;
+2. A lab teaching practical skills in creating and analysing digital texts.
+
+Master the items listed under the 'Read' heading on the schedule before each class, during which we will argue about their implications. The readings listed under 'Optional' are further background to what I am thinking about in planning each class.
+
+The tutorials listed under 'At-home lab review' are suggestions for further developing the skills for the lab assignments.

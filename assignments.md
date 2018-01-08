@@ -67,14 +67,3 @@ Submit an abstract and outline of your intended argument, no more than 700 words
 ### Final submission (due 5 April)
 
 The final product should be in the range of 3,000–3,500 words, excluding notes and bibliography.
-
-# Class structure
-
-Most classes are divided into two parts:
-
-1. Historical and theoretical discussions;
-2. A lab teaching practical skills in creating and analysing digital texts.
-
-Master the items listed under the 'Read' heading before each class, during which we will argue about their implications. The readings listed under 'Optional' are further background to what I am thinking about in planning each class.
-
-The tutorials listed under 'At-home lab review' are suggestions for further developing the skills for the lab assignments.
