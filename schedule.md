@@ -81,7 +81,6 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 ### Read
 
 - Suarez, Michael F. ‘Book History from Descriptive Bibliographies’. In *The Cambridge Companion to the History of the Book,* edited by Leslie Howsam, 199–218. Cambridge: Cambridge University Press, 2014. <https://doi.org/10.1017/CCO9781139152242.015>.
-- Warkentin, Germaine. ‘In Search of “The Word of the Other”: Aboriginal Sign Systems and the History of the Book in Canada’. *Book History* 2, no. 1 (August 1999): 1–27. <https://doi.org/10.1353/bh.1999.0012>. [[PDF on JSTOR](https://jstor.org/stable/30227294)]
 
 ## 5. Tuesday, 6 February
 
@@ -93,7 +92,7 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 ### Read
 
 - Johns, Adrian. ‘The Coming of Print to Europe’. In *The Cambridge Companion to the History of the Book,* edited by Leslie Howsam, 107–24. Cambridge: Cambridge University Press, 2014. <https://doi.org/10.1017/CCO9781139152242.009>.
-- Kirschenbaum, Matthew G. ‘“So the Colors Cover the Wires”: Interface, Aesthetics, and Usability’. In *A Companion to Digital Humanities,* edited by Susan Schreibman, Ray Siemens, and John Unsworth, 523–42. Malden, MA: Blackwell, 2004. <https://doi.org/10.1002/9780470999875.ch34>.
+- Warkentin, Germaine. ‘In Search of “The Word of the Other”: Aboriginal Sign Systems and the History of the Book in Canada’. *Book History* 2, no. 1 (August 1999): 1–27. <https://doi.org/10.1353/bh.1999.0012>. [[PDF on JSTOR](https://jstor.org/stable/30227294)]
 
 ### Optional
 
