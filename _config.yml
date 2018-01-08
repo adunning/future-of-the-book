@@ -1,0 +1,28 @@
+# Site settings
+lang: en-CA
+title: The Future of the Book
+author: Andrew Dunning
+email: andrew.dunning@utoronto.ca
+description: >
+  A course on the history and possible futures of books in a digital world (winter 2018 at the University of Toronto, INF2331H).
+baseurl: "/future-of-the-book" # the subpath of your site, e.g. /blog
+url: "https://andrewdunning.ca" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: anjdunning
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
