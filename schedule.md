@@ -6,6 +6,10 @@ permalink: /schedule/
 
 Note: links to subscription resources will work only when accessed through the university network. Off-campus, use [UTORvpn](https://vpn.utoronto.ca).
 
+* TOC
+{:toc}
+{::options toc_levels="2" /}
+
 ## 1. Tuesday, 9 January
 
 - What is a book?
