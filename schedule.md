@@ -78,7 +78,7 @@ Note: links to subscription resources will work only when accessed through the u
 
 ## 4. Tuesday, 30 January: *Class in Fisher Rare Book Library*
 
-Examination of premodern books in the seminar room (ground floor).
+Study of premodern books in the seminar room (ground floor).
 
 Due to space constraints, the class will be split into two sessions: 9:10–10:30 and 10:40–12:00. Groups will be announced via email.
 
@@ -220,7 +220,7 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 
 ## 9. Tuesday, 13 March: *Class in Fisher Rare Book Library*
 
-Examination of archives and printed books in the seminar room (ground floor).
+Study of archives and printed books in the seminar room (ground floor).
 
 Due to space constraints, the class will be split into two sessions: 9:10–10:30 and 10:40–12:00. Groups will be announced via email.
 
