@@ -89,7 +89,7 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 ### Items viewed at the Fisher Library
 
 - [MS Coll. 175](http://go.utlib.ca/cat/5445458): Collection of papyri, 3rd century BC–3rd century AD
-- [Frideberg MSS 9-004](http://go.utlib.ca/cat/2865504): Collection of fragments from the Cairo Geniza, 11th-14th centuries
+- [Frideberg MSS 9-004](http://go.utlib.ca/cat/2865504): Collection of fragments from the Cairo Geniza, 11th–14th centuries
 - [MS 5321](http://go.utlib.ca/cat/7405049): Hugh of Fouilloy, *De claustro animae*, France, 1140s–1150s ([additional images](http://www.textmanuscripts.com/medieval/hugo-folieto-claustro-animae-60752))
 - [MS 3369](http://go.utlib.ca/cat/9990781): Hugh of Saint-Victor, *Homilies on Solomon's Ecclesiastes*, Spain, 1170s–1190s ([additional images](http://www.textmanuscripts.com/medieval/hugh-saint-victor-homiles-60953))
 - [MS 4404](http://go.utlib.ca/cat/4731506): William of Wycombe, *Life of Robert de Béthune*, England, 1190s–1200s
