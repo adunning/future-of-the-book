@@ -80,7 +80,7 @@ Note: links to subscription resources will work only when accessed through the u
 
 Study of premodern books in the seminar room (ground floor).
 
-Due to space constraints, the class will be split into two sessions: 9:10–10:30 and 10:40–12:00. Groups will be announced via email.
+Due to space constraints, the class will be split into two sessions: 9:10–10:30 (surnames beginning with A to K) and 10:40–12:00 (L to Z).
 
 ### Read
 
@@ -222,7 +222,7 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 
 Study of archives and printed books in the seminar room (ground floor).
 
-Due to space constraints, the class will be split into two sessions: 9:10–10:30 and 10:40–12:00. Groups will be announced via email.
+Due to space constraints, the class will be split into two sessions: 9:10–10:30 (surnames beginning with A to K) and 10:40–12:00 (L to Z).
 
 ### Read
 
@@ -230,7 +230,8 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 
 <!-- ### Items viewed at the Fisher Library
 
-- [MSS 03043](http://go.utlib.ca/cat/4721991): Fenestella, *The Roman Magistrates*, Italy, 1470s–1490s ([article](https://fisher.library.utoronto.ca/sites/fisher.library.utoronto.ca/files/halcyon_dec_2007.pdf)) -->
+- [MSS 03043](http://go.utlib.ca/cat/4721991): Fenestella, *The Roman Magistrates*, Italy, 1470s–1490s ([article](https://fisher.library.utoronto.ca/sites/fisher.library.utoronto.ca/files/halcyon_dec_2007.pdf))
+https://www.utoronto.ca/news/u-t-s-fisher-library-now-has-one-canada-s-oldest-printed-books -->
 
 ## 10. Tuesday, 20 March
 
