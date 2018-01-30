@@ -54,7 +54,7 @@ Note: links to subscription resources will work only when accessed through the u
 
 - From scroll to codex
 - What is digital text?
-- Lab: Text editors, word processors, and Regular Expressions
+- Lab: Text editors, word processors, and markup
 
 ### Read
 
@@ -72,9 +72,9 @@ Note: links to subscription resources will work only when accessed through the u
 
 ### At-home lab review
 
-- Doug Knox, ‘[Understanding Regular Expressions](https://programminghistorian.org/lessons/understanding-regular-expressions)’, *Programming Historian*, 22 June 2013.
+- [DecodeUnicode](http://decodeunicode.org)
+- [Markdown Tutorial](https://markdowntutorial.com)
 - *advanced tutorial*: Michael Hartl, [*Learn Enough Text Editor to Be Dangerous*](https://learnenough.com/text-editor-tutorial).
-- *reference*: [RegExr](https://regexr.com)
 
 ## 4. Tuesday, 30 January: *Class in Fisher Rare Book Library*
 
@@ -86,12 +86,33 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 
 - Suarez, Michael F. ‘Book History from Descriptive Bibliographies’. In *The Cambridge Companion to the History of the Book,* edited by Leslie Howsam, 199–218. Cambridge: Cambridge University Press, 2014. <https://doi.org/10.1017/CCO9781139152242.015>.
 
+### Items viewed at the Fisher Library
+
+- [MS Coll. 175](http://go.utlib.ca/cat/5445458): Collection of papyri, 3rd century BC–3rd century AD
+- [Frideberg MSS 9-004](http://go.utlib.ca/cat/2865504): Collection of fragments from the Cairo Geniza, 11th-14th centuries
+- [MS 5321](http://go.utlib.ca/cat/7405049): Hugh of Fouilloy, *De claustro animae*, France, 1140s–1150s ([additional images](http://www.textmanuscripts.com/medieval/hugo-folieto-claustro-animae-60752))
+- [MS 3369](http://go.utlib.ca/cat/9990781): Hugh of Saint-Victor, *Homilies on Solomon's Ecclesiastes*, Spain, 1170s–1190s ([additional images](http://www.textmanuscripts.com/medieval/hugh-saint-victor-homiles-60953))
+- [MS 4404](http://go.utlib.ca/cat/4731506): William of Wycombe, *Life of Robert de Béthune*, England, 1190s–1200s
+- MS Schönborn 2: Bible, Bologna, 1270s–1280s
+- [MS 1125](http://go.utlib.ca/cat/4716761): Peter Lombard, *Sentences*, England, 1280s–1290s
+- [MS Coll. 267](http://go.utlib.ca/cat/5406142): Collection of leaves from illuminated manuscripts, 13th to 15th centuries
+- [MS 5242](http://go.utlib.ca/cat/4993102): Albert of Saxony, *Questions on Aristotle's 'On the Heavens'*, Siena, 1407
+- [MS 9700](http://go.utlib.ca/cat/4747704): Antiphonary, Florence?, 1400s–1430s
+- [MS 1123](http://go.utlib.ca/cat/3799824): Office of the Virgin Mary for the Dominican order, written in the area of Naples and Taranto, 1423–1460s
+- [MS 5288](http://go.utlib.ca/cat/4338857): Augustine, *The City of God*, Germany, 1430s–1470s
+- [Walsh f 00004](http://go.utlib.ca/cat/4734946): printed copy of John Duns Scotus's commentary on Peter Lombard's *Sentences* (Venice, 1476)
+- [The 'Nuremberg Chronicle'](http://go.utlib.ca/cat/3685386): Hartmann Schedel, *Liber chronicarum* (Nuremberg, 12 July 1493)
+- [MS 8009](http://go.utlib.ca/cat/6988141): Sinhalese handbook of treatment, 1720s
+- [MS 1239](http://go.utlib.ca/cat/6103899): Qur'an, Istanbul, 18th century
+- [MS 8007](http://go.utlib.ca/cat/4633714): Tiḳun lel Shavuʻot, 18th century
+- [MS 8002](http://go.utlib.ca/cat/6965217): scroll of Esther, 19th century
+
 ## 5. Tuesday, 6 February
 
 - *Paper proposal due*
 - Premodern revolutions of the page
 - Interfaces to texts
-- Lab: Version control with Git
+- Lab: Regular Expressions and HTML
 
 ### Read
 
@@ -112,9 +133,10 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 
 ### At-home lab review
 
-- *in-class materials*: [Library Carpentry: Git Intro for Librarians](https://data-lessons.github.io/library-git/)
-- *interactive tutorial*: [Codecademy: Learn Git](https://codecademy.com/learn/learn-git)
-- *advanced tutorial*: Michael Hartl, [*Learn Enough Git to Be Dangerous*](https://learnenough.com/git-tutorial).
+- [RegexOne](https://regexone.com)
+- Doug Knox, ‘[Understanding Regular Expressions](https://programminghistorian.org/lessons/understanding-regular-expressions)’, *Programming Historian*, 22 June 2013.
+- *reference*: [RegExr](https://regexr.com)
+- *reference*: [Regular Expressions 101](https://regex101.com)
 
 ## 6. Tuesday, 13 February
 
@@ -141,6 +163,7 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 
 - *interactive tutorial*: [Codecademy: Learn HTML](https://codecademy.com/learn/learn-html)
 - *or if you like videos*: [Khan Academy: Intro to HTML/CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
+- [HTML Dog](https://htmldog.com)
 - *advanced tutorial*: Michael Hartl and Lee Donahoe, [*Learn Enough HTML to Be Dangerous*](https://learnenough.com/html-tutorial).
 
 16 February
@@ -205,6 +228,10 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 
 - Bode, Katherine, and Roger Osborne. ‘Book History from the Archival Record’. In *The Cambridge Companion to the History of the Book,* edited by Leslie Howsam, 219–36. Cambridge: Cambridge University Press, 2014. <https://doi.org/10.1017/CCO9781139152242.016>.
 
+<!-- ### Items viewed at the Fisher Library
+
+- [MSS 03043](http://go.utlib.ca/cat/4721991): Fenestella, *The Roman Magistrates*, Italy, 1470s–1490s ([article](https://fisher.library.utoronto.ca/sites/fisher.library.utoronto.ca/files/halcyon_dec_2007.pdf)) -->
+
 ## 10. Tuesday, 20 March
 
 - Local books: Libraries as repositories of intellectual property and cultural heritage property
@@ -245,6 +272,7 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 
 - Eichhorn, Kate. ‘The Digital Turn in Canadian and Québécois Literature’. In *The Oxford Handbook of Canadian Literature,* edited by Cynthia Sugars. New York: Oxford University Press, 2016. <https://doi.org/10.1093/oxfordhb/9780199941865.013.28>.
 - Eve, Martin Paul. *Open Access and the Humanities: Contexts, Controversies and the Future.* Cambridge: Cambridge University Press, 2014. <https://doi.org/10.1017/CBO9781316161012>.
+- Eve, Martin Paul. ‘Open Publication, Digital Abundance, and Scarce Labour’. *Journal of Scholarly Publishing* 49, no. 1 (October 2017): 26–40. <https://doi.org/10.3138/jsp.49.1.26>.
 - Mak, Bonnie. ‘Archaeology of a Digitization’. *Journal of the Association for Information Science and Technology* 65, no. 8 (August 2014): 1515–26. <https://doi.org/10.1002/asi.23061>.
 
 ### At-home lab review
