@@ -4,6 +4,10 @@ title: Assignments
 permalink: /assignments/
 ---
 
+* TOC
+{:toc}
+{::options toc_levels="2" /}
+
 Assessment is weighted as follows:
 
 10%
@@ -64,6 +68,27 @@ Your final project should draw upon primary and secondary sources to advance an 
 
 Submit a summary and outline of your intended argument, no more than 700 words long (point-form is acceptable). I am open to unconventional approaches to this assignment, such as papers that combine traditional academic writing with a design experiment or mock-up.
 
+For further guidance, see [Writing Advice: The Academic Proposal](http://advice.writing.utoronto.ca/types-of-writing/academic-proposal/).
+
 ### Final submission (due 5 April)
 
 The final product should be in the range of 3,000–3,500 words, excluding notes and bibliography.
+
+## Analytical writing rubric
+
+This table shows the criteria used for marking both the final project and the written portion of the lab assignments (taking into account the different requirements). Papers are given a grade out of 100 points.
+
+| Characteristic                    | Exceptional (A, 80–100)                                                                                                                                                 | Well-Done (B, 70–79)                                                                                                    | Needs Work (FZ, 0–69)                                                                                                                                      |
+|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Argumentation (20 marks)          | Robust and clear arguments that go beyond description, offering nuanced and sophisticated insights; all sections directly support a precise and coherent thesis (16–20) | Discernible arguments, offering sound insights; most sections directly support an explicit and plausible thesis (14–15) | Unclear or weak arguments, often falling into description or summary; thesis may be too vague or broad a claim to support or logically inconsistent (0–13) |
+| Analytical Originality (20)       | Demonstrates exceptional analytical originality, both in creating new arguments and in relating facts in new ways (beyond what is covered in course material) (16–20)   | Demonstrates analytical originality, either in creating new arguments or in relating facts in new ways (14–15)          | Demonstrates limited analytical originality, often relying on arguments and evidence already covered in class (0–13)                                       |
+| Research and Evidence (20)        | Detailed and comprehensive evidence demonstrates wide reading of relevant literature; quotations are pertinent and fully integrated with argument (16–20)               | Thorough evidence from appropriate sources supports arguments; quotations carefully selected (14–15)                    | Evidence generally supports arguments, but may need more depth or rely too heavily on quotations (0–13)                                                    |
+| Content Knowledge (20)            | Demonstrates superlative mastery of material (16–20)                                                                                                                    | Demonstrates excellent understanding of content and is comfortable with nuances in material (14–15)                     | Conveys content adequately but fails to elaborate (0–13)                                                                                                   |
+| Structure and Organization (10)   | Logical structure with clear organization that walks the reader through arguments and evidence (8–10)                                                                   | Logical structure with clear organization (7)                                                                           | Veers significantly from logical structure or is not well organized (0–6)                                                                                  |
+| Grammar, Syntax, Punctuation (10) | No errors; properly and consistently uses an appropriate citation style (8–10)                                                                                          | No major errors, a few minor errors that do not distract; no significant faults in citation style (7)                   | Major errors or several minor errors that do not distract; a few faults in citation style (0–6)                                                            |
+
+Adapted from Maria Rost Rublee, ‘Rubrics in the Political Science
+Classroom: Packing a Serious Analytical Punch’, *PS: Political Science &
+Politics* 47, no. 1 (January 2014): 201,
+<https://doi.org/10.1017/S1049096513001704>.
+
