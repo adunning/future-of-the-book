@@ -39,19 +39,31 @@ For both assignments, one member should submit all materials on behalf of the gr
 
 This group assignment introduces the complexities of digitally modelling print and manuscript materials, as well as other types of texts that pose a challenge to represent digitally. Select a text from the examples provided (or choose your own), and mark it up using HTML tags.
 
-This involves making choices about which aspects of the original to encode, and how to contend with the structural constraints of tags. Along with the file containing your text, submit a rationale, around 800 words long, explaining the choices you made and the problems you encountered. You will be graded on your use of semantic tagging; whether or not your HTML file validates; and the arguments 
+This involves making choices about which aspects of the original to encode, and how to contend with the structural constraints of tags. Along with the file containing your text, submit a rationale, around 800 words long, explaining the choices you made and the problems you encountered. You will be graded on your use of semantic tagging; whether or not your HTML file validates; and the arguments put forward for your approach to representing the text in HTML – including notes on where you have exhausted its capabilities. You will not be graded on textual accuracy; there is no need to worry about eliminating OCR errors, and feel free to use a placeholder character if there is a word in a handwritten document that you cannot read.
 
 ### Lab project 2: Reading interfaces (due 28 March)
 
-Turn your text into a digital book with a reading interface, starting with the templates provided, and produce versions in both HTML and EPUB, using your knowledge of CSS to format the pages correctly.
+Building on the last assignment, turn your text into a digital book with a reading interface, starting with the templates provided, and produce versions in both HTML and EPUB, using your knowledge of CSS to format the pages correctly.
 
 The submitted assignment will include the following files:
 
 1. An HTML version of your book designed for viewing in a web browser.
 2. An EPUB file designed for use with e-readers.
-3. A report of around 1,500–1,800 words, with an edited version of your rationale for the choices you made in the encoding, reflecting on how the process of digitization can lead to new ways to understand the material. The report should draw upon appropriate secondary sources in markup theory and practice.
+3. A report of around 1,500–1,800 words with a rationale for your encoding and presentation (integrating what you previously submitted in an edited form), and reflecting on how the process of digitization can lead to new ways to understand the material, what is gained or lost in the process, and how the work could be made more accessible with further work. In some cases, you may wish to consult with the original collection item.
 
 This assignment will be graded on the appropriateness of the selected material, the clarity and critical strength of the written rationale, the quality of the writing, and how well the submitted documents reflect concepts discussed in class and readings up to this point.
+
+### Sample sources
+
+These suggested projects are from the digitized collections of the Thomas Fisher Library in [printed books](https://archive.org/details/thomasfisher) and [manuscripts](https://fishercollections.library.utoronto.ca). You may select any other book or document, in any language, that poses some interesting challenge. For printed books that already have an OCRed text available on the Internet Archive, take a selection of at least two chapters (or the equivalent). If you use a document that you need to type yourself, take an interesting selection of around two thousand words.
+
+1. [Toronto, Thomas Fisher Rare Book Library, MS 6808: Petition to Queen Anne reviewing the Hudson's Bay Company's claims against the French](https://fishercollections.library.utoronto.ca/islandora/object/fisher2%3A166), 1710 ([catalogue record](http://go.utlib.ca/cat/8699859)).
+2. Daniel Defoe, [*The history of the devil*](https://archive.org/details/historyofdevil00defouoft) (London: Warner, 1727).
+3. [Toronto, Thomas Fisher Rare Book Library, MS 4006: Fred Neve, *The narrative of a voyage from London to Montreal*](https://fishercollections.library.utoronto.ca/islandora/object/fisher2%3AF6761), 1839 ([catalogue record](http://go.utlib.ca/cat/5007780)).
+4. Oliver Byrne, [*The first six books of the Elements of Euclid, in which coloured diagrams and symbols are used instead of letters for the greater ease of learners*](https://archive.org/details/firstsixbooksofe00eucl) (London: Pickering, 1847).
+5. [Toronto, Thomas Fisher Rare Book Library, MS 1230: Cookbook of British recipes](https://fishercollections.library.utoronto.ca/islandora/object/fisher2%3AF8591), 19th century ([catalogue record](http://go.utlib.ca/cat/6668885)).
+6. William James, [*Is life worth living?*](https://archive.org/details/islifeworthlivin00jameuoft) (Philadelphia: Weston, 1896).
+7. Erik Bergvall, [*The fifth Olympiad: the official report of the Olympic Games of Stockholm 1912*](https://archive.org/details/fiftholympiadoff00berg) (Stockholm: Wahlstrom & Widstrand, 1913).
 
 ## Final paper
 

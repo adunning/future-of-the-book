@@ -130,6 +130,7 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 - Parkes, M.B. ‘The Influence of the Concepts of *Ordinatio* and *Compilatio* on the Development of the Book’. In *Medieval Learning and Literature: Essays Presented to Richard William Hunt,* edited by J.J.G. Alexander and M.T. Gibson, 115–140. Oxford: Clarendon Press, 1976.
 - Riedel, Dagmar. ‘Of Making Many Copies There Is No End: The Digitization of Manuscripts and Printed Books in Arabic Script’. In *The Digital Humanities and Islamic & Middle East Studies,* edited by Elias Muhanna. Berlin: De Gruyter, 2016. <https://doi.org/10.1515/9783110376517-004>. [[University of Toronto access](https://ebookcentral-proquest-com.myaccess.library.utoronto.ca/lib/utoronto/detail.action?docID=4459588)]
 - Saenger, Paul Henry. ‘Reading in the Later Middle Ages’. In *A History of Reading in the West,* edited by Guglielmo Cavallo and Roger Chartier, translated by Lydia G. Cochrane, 120–148. Cambridge: Polity Press, 1999.
+- Tufte, Edward R. *Envisioning Information.* Cheshire, CT: Graphics Press, 1990.
 
 ### At-home lab review
 
