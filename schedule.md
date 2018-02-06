@@ -134,6 +134,7 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 
 ### At-home lab review
 
+- In-class conversion project: Thomas Erskine, [*Armata: A Fragment*](https://archive.org/details/armatafragment00erskuoft) (London: Murray, 1817)
 - [RegexOne](https://regexone.com)
 - Doug Knox, ‘[Understanding Regular Expressions](https://programminghistorian.org/lessons/understanding-regular-expressions)’, *Programming Historian*, 22 June 2013.
 - *reference*: [RegExr](https://regexr.com)
