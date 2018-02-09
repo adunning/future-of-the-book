@@ -37,9 +37,16 @@ For both assignments, one member should submit all materials on behalf of the gr
 
 ### Lab project 1: Text markup (due 16 February)
 
-This group assignment introduces the complexities of digitally modelling print and manuscript materials, as well as other types of texts that pose a challenge to represent digitally. Select a text from the examples provided (or choose your own), and mark it up using HTML tags.
+This group assignment introduces the complexities of digitally modelling print and manuscript materials, as well as other types of texts that pose a challenge to represent digitally. Select a text from the examples below (or choose your own), and mark it up using HTML tags. This involves making choices about which aspects of the original to encode, and how to contend with the structural constraints of tags.
 
-This involves making choices about which aspects of the original to encode, and how to contend with the structural constraints of tags. Along with the file containing your text, submit a rationale, around 800 words long, explaining the choices you made and the problems you encountered. You will be graded on your use of semantic tagging; whether or not your HTML file validates; and the arguments put forward for your approach to representing the text in HTML – including notes on where you have exhausted its capabilities. You will not be graded on textual accuracy; there is no need to worry about eliminating OCR errors, and feel free to use a placeholder character if there is a word in a handwritten document that you cannot read.
+The submitted assignment will include:
+
+1. An HTML file containing your text. This should [validate](https://validator.w3.org), but it is not necessary to introduce styling at this stage.
+2. A rationale, around 800 words long, explaining the choices you made and the problems you encountered. You might structure this as a tour through the structural features of the book, arguing for whether or not they have relevance in being translated into semantic, electronic terms, and if so the tags you have chosen as equivalents (perhaps even discussing alternatives that you did not choose). If there are unusual characters in the text, it may also be appropriate to discuss problems with encoding them through Unicode.
+
+You will be graded on your use of semantic tagging; whether or not your HTML file validates; and the arguments put forward for your approach to representing the text's structure in HTML and Unicode – including notes on where you have exhausted its capabilities.
+
+You will *not* be graded on textual accuracy; there is no need to worry about eliminating OCR errors from the Internet Archive full text files. Feel free to use placeholder characters if there is a word in a handwritten document that you cannot read.
 
 ### Lab project 2: Reading interfaces (due 28 March)
 
@@ -55,7 +62,7 @@ This assignment will be graded on the appropriateness of the selected material, 
 
 ### Sample sources
 
-These suggested projects are from the digitized collections of the Thomas Fisher Library in [printed books](https://archive.org/details/thomasfisher) and [manuscripts](https://fishercollections.library.utoronto.ca). You may select any other book or document, in any language, that poses some interesting challenge. For printed books that already have an OCRed text available on the Internet Archive, take a selection of at least two chapters (or the equivalent). If you use a document that you need to type yourself, take an interesting selection of around two thousand words.
+These suggested projects are from the digitized collections of the Thomas Fisher Library in [printed books](https://archive.org/details/thomasfisher) and [manuscripts](https://fishercollections.library.utoronto.ca). You may select any other book or document, in any language, that poses some interesting challenge. For printed books that already have a full text available for download from the Internet Archive, copy a selection of at least two chapters (or the equivalent). If you use a document that you need to type yourself, transcribe an interesting selection of around two thousand words (using placeholder text if desired, as we are interested in structure rather than textual accuracy).
 
 1. [Toronto, Thomas Fisher Rare Book Library, MS 6808: Petition to Queen Anne reviewing the Hudson's Bay Company's claims against the French](https://fishercollections.library.utoronto.ca/islandora/object/fisher2%3A166), 1710 ([catalogue record](http://go.utlib.ca/cat/8699859)).
 2. Daniel Defoe, [*The history of the devil*](https://archive.org/details/historyofdevil00defouoft) (London: Warner, 1727).
