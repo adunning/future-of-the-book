@@ -14,7 +14,7 @@ Note: links to subscription resources will work only when accessed through the u
 
 - What is a book?
 
-### Optional
+### Background
 
 - Chartier, Roger, and Peter Stallybrass. ‘What Is a Book?’ In *The Cambridge Companion to Textual Scholarship,* edited by Neil Fraistat and Julia Flanders, 188–204. Cambridge: Cambridge University Press, 2013. <https://doi.org/10.1017/CCO9781139044073.009>.
 - Gillespie, Alexandra. ‘Analytical Survey: The History of the Book’. *New Medieval Literatures* 9 (2007): 245–86. <https://doi.org/10.1484/J.NML.2.302743>.
@@ -33,7 +33,7 @@ Note: links to subscription resources will work only when accessed through the u
 - McCutcheon, R.W. ‘Silent Reading in Antiquity and the Future History of the Book’. *Book History* 18, no. 1 (30 October 2015): 1–32. <https://doi.org/10.1353/bh.2015.0011>.
 - Stoicheff, Peter. ‘Materials and Meanings’. In *The Cambridge Companion to the History of the Book,* edited by Leslie Howsam, 73–89. Cambridge: Cambridge University Press, 2014. <https://doi.org/10.1017/CCO9781139152242.007>.
 
-### Optional
+### Background
 
 - Darnton, Robert. *The Business of Enlightenment: A Publishing History of the Encyclopédie, 1775–1800.* Cambridge, MA: Belknap Press, 1979. <https://archive.org/details/Business_201507>.
 - Galey, Alan. ‘Encoding as Editing as Reading’. In *Shakespeare and Textual Studies,* edited by Margaret Jane Kidnie and Sonia Massai, 196–211. Cambridge: Cambridge University Press, 2015. <https://doi.org/10.1017/CBO9781139152259.013>.
@@ -49,6 +49,7 @@ Note: links to subscription resources will work only when accessed through the u
 - *interactive tutorial*: [Codecademy: Learn the Command Line](https://codecademy.com/learn/learn-the-command-line)
 - *advanced tutorial*: Michael Hartl, [*Learn Enough Command Line to Be Dangerous*](https://learnenough.com/command-line-tutorial).
 - *reference*: [Explainshell.com](https://explainshell.com)
+- [UNIX: Making Computers Easier To Use](https://youtube.com/watch?v=XvDZLjaCJuw) (film, 1982)
 
 ## 3. Tuesday, 23 January
 
@@ -59,12 +60,11 @@ Note: links to subscription resources will work only when accessed through the u
 ### Read
 
 - Ezell, Margaret J.M. ‘Handwriting and the Book’. In *The Cambridge Companion to the History of the Book,* edited by Leslie Howsam, 90–106. Cambridge: Cambridge University Press, 2014. <https://doi.org/10.1017/CCO9781139152242.008>.
-- Maxwell, John W. ‘E-Book Logic: We Can Do Better’. *Papers of the Bibliographical Society of Canada* 51, no. 1 (2013): 29–47. <http://jps.library.utoronto.ca/index.php/bsc/article/view/20761>.
+- McGann, Jerome. ‘Marking Texts of Many Dimensions’. In *A New Companion to Digital Humanities,* edited by Susan Schreibman, Ray Siemens, and John Unsworth, 358–76. Chichester, West Sussex: Wiley-Blackwell, 2015. <https://doi.org/10.1002/9781118680605.ch25>.
 
-### Optional
+### Background
 
 - Brown, Michelle P. ‘The Triumph of the Codex: The Manuscript Book before 1100’. In *A Companion to the History of the Book*, edited by Simon Eliot and Jonathan Rose, 177–93. Malden, MA: Blackwell, 2007. <https://doi.org/10.1002/9780470690949.ch13>.
-- McGann, Jerome. ‘Marking Texts of Many Dimensions’. In *A New Companion to Digital Humanities,* edited by Susan Schreibman, Ray Siemens, and John Unsworth, 358–76. Chichester, West Sussex: Wiley-Blackwell, 2015. <https://doi.org/10.1002/9781118680605.ch25>.
 - Parkes, M.B. ‘Reading, Copying and Interpreting a Text in the Early Middle Ages’. In *A History of Reading in the West,* edited by Guglielmo Cavallo and Roger Chartier, translated by Lydia G. Cochrane, 90–102. Cambridge: Polity Press, 1999.
 - Robson, Eleanor. ‘The Clay Tablet Book in Sumer, Assyria, and Babylonia’. In *A Companion to the History of the Book,* edited by Simon Eliot and Jonathan Rose, 63–83. Malden, MA: Blackwell, 2007. <https://doi.org/10.1002/9780470690949.ch5>.
 - Roemer, Cornelia. ‘The Papyrus Roll in Egypt, Greece, and Rome’. In *A Companion to the History of the Book,* edited by Simon Eliot and Jonathan Rose, 84–94. Malden, MA: Blackwell, 2007. <https://doi.org/10.1002/9780470690949.ch6>.
@@ -119,7 +119,7 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 - Johns, Adrian. ‘The Coming of Print to Europe’. In *The Cambridge Companion to the History of the Book,* edited by Leslie Howsam, 107–24. Cambridge: Cambridge University Press, 2014. <https://doi.org/10.1017/CCO9781139152242.009>.
 - Warkentin, Germaine. ‘In Search of “The Word of the Other”: Aboriginal Sign Systems and the History of the Book in Canada’. *Book History* 2, no. 1 (August 1999): 1–27. <https://doi.org/10.1353/bh.1999.0012>. [[PDF on JSTOR](https://jstor.org/stable/30227294)]
 
-### Optional
+### Background
 
 - Albin, Michael. ‘The Islamic Book’. In *A Companion to the History of the Book,* edited by Simon Eliot and Jonathan Rose, 165–76. Malden, MA: Blackwell, 2007. <https://doi.org/10.1002/9780470690949.ch12>.
 - Clanchy, M.T. *From Memory to Written Record: England 1066–1307.* 3rd ed. Chichester, West Sussex: Wiley-Blackwell, 2013.
@@ -150,7 +150,7 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 - Clegg, Cyndia Susan. ‘The Authority and Subversiveness of Print in Early-Modern Europe’. In *The Cambridge Companion to the History of the Book,* edited by Leslie Howsam, 125–42. Cambridge: Cambridge University Press, 2014. <https://doi.org/10.1017/CCO9781139152242.010>.
 - Eisenstein, Elizabeth L. ‘The Unacknowledged Revolution’. In *The Printing Press as an Agent of Change,* 3–42. Cambridge: Cambridge University Press, 1979. <https://doi.org/10.1017/CBO9781107049963>.
 
-### Optional
+### Background
 
 - Bringhurst, Robert. *The Elements of Typographic Style.* 4th ed. Vancouver, BC: Hartley & Marks, 2013.
 - Edgren, J.S. ‘China’. In *A Companion to the History of the Book,* edited by Simon Eliot and Jonathan Rose, 95–110. Blackwell Companions to Literature and Culture 48. Malden, MA: Blackwell, 2007. <https://doi.org/10.1002/9780470690949.ch7>.
@@ -188,12 +188,13 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 - Hammond, Mary. ‘Book History in the Reading Experience’. In *The Cambridge Companion to the History of the Book,* edited by Leslie Howsam, 237–52. Cambridge: Cambridge University Press, 2014. <https://doi.org/10.1017/CCO9781139152242.017>.
 - Raven, James. ‘The Industrial Revolution of the Book’. In *The Cambridge Companion to the History of the Book,* edited by Leslie Howsam, 143–61. Cambridge: Cambridge University Press, 2014. <https://doi.org/10.1017/CCO9781139152242.011>.
 
-### Optional
+### Background
 
 - Barchas, Janine. ‘Sense, Sensibility, and Soap: An Unexpected Case Study in Digital Resources for Book History’. *Book History* 16, no. 1 (31 October 2013): 185–214. <https://doi.org/10.1353/bh.2013.0015>.
 - Bringhurst, Robert. *The Surface of Meaning: Books and Book Design in Canada.* Vancouver, BC: CCSP Press, 2008. [on course reserve]
 - Luna, Paul. ‘Books and Bits: Texts and Technology 1970–2000’. In *A Companion to the History of the Book,* edited by Simon Eliot and Jonathan Rose, 381–94. Malden, MA: Blackwell, 2007. <https://doi.org/10.1002/9780470690949.ch28>.
 - McKitterick, David. ‘Changes in the Look of the Book’. In *The Cambridge History of the Book in Britain*, edited by David McKitterick, 6:75–116. Cambridge: Cambridge University Press, 2009. <https://doi.org/10.1017/CHOL9780521866248.003>.
+- Robertson, Frances. *Print Culture: From Steam Press to Ebook.* Directions in Cultural History. London: Routledge, 2013. <https://doi.org/10.4324/9780203144206>.
 - Taylor, Andrew. ‘Readers and Manuscripts’. In *The Oxford Handbook of Medieval Latin Literature,* edited by Ralph J. Hexter and David Townsend, 151–170. Oxford: Oxford University Press, 2012. <https://doi.org/10.1093/oxfordhb/9780195394016.013.0008>.
 
 ### At-home lab review
@@ -208,10 +209,10 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 
 ### Read
 
-- Bath, Jon, and Scott Schofield. ‘The Digital Book’. In *The Cambridge Companion to the History of the Book,* edited by Leslie Howsam, 181–96. Cambridge: Cambridge University Press, 2014. <https://doi.org/10.1017/CCO9781139152242.013>.
+- Maxwell, John W. ‘E-Book Logic: We Can Do Better’. *Papers of the Bibliographical Society of Canada* 51, no. 1 (2013): 29–47. <http://jps.library.utoronto.ca/index.php/bsc/article/view/20761>.
 - McCleery, Alistair. ‘The Book in the Long Twentieth Century’. In *The Cambridge Companion to the History of the Book,* edited by Leslie Howsam, 162–80. Cambridge: Cambridge University Press, 2014. <https://doi.org/10.1017/CCO9781139152242.012>.
 
-### Optional
+### Background
 
 - Baron, Naomi S. *Words Onscreen: The Fate of Reading in a Digital World.* New York: Oxford University Press, 2015. [[University of Toronto access](https://ebookcentral-proquest-com.myaccess.library.utoronto.ca/lib/utoronto/detail.action?docID=1884055)]
 - Chadwyck-Healey, Charles. ‘The New Textual Technologies’. In *A Companion to the History of the Book,* edited by Simon Eliot and Jonathan Rose, 451–63. Malden, MA: Blackwell, 2007. <https://doi.org/10.1002/9780470690949.ch33>.
@@ -219,6 +220,12 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 - Mroczek, Eva. ‘Thinking Digitally About the Dead Sea Scrolls: Book History Before and Beyond the Book’. *Book History* 14, no. 1 (9 November 2011): 241–69. <https://doi.org/10.1353/bh.2011.0006>.
 - Rowberry, Simon Peter. ‘Ebookness’. *Convergence* 23, no. 3 (June 2017): 289–305. <https://doi.org/10.1177/1354856515592509>.
 - Rubery, Matthew. ‘Canned Literature: The Book after Edison’. *Book History* 16, no. 1 (31 October 2013): 215–45. <https://doi.org/10.1353/bh.2013.0012>.
+
+### At-home lab review
+
+- [Getting Started with Pandoc](https://pandoc.org/getting-started.html)
+- Ovadia, Steven. ‘Markdown for Librarians and Academics’. *Behavioral & Social Sciences Librarian* 33, no. 2 (2014): 120–24. <https://doi.org/10.1080/01639269.2014.904696>.
+- Tenen, Dennis, and Grant Wythoff. ‘[Sustainable Authorship in Plain Text Using Pandoc and Markdown](https://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)’. *Programming Historian*, 19 March 2014.
 
 ## 9. Tuesday, 13 March: *Class in Fisher Rare Book Library*
 
@@ -229,6 +236,8 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 ### Read
 
 - Bode, Katherine, and Roger Osborne. ‘Book History from the Archival Record’. In *The Cambridge Companion to the History of the Book,* edited by Leslie Howsam, 219–36. Cambridge: Cambridge University Press, 2014. <https://doi.org/10.1017/CCO9781139152242.016>.
+
+
 
 <!-- ### Items viewed at the Fisher Library
 
@@ -246,18 +255,13 @@ https://www.utoronto.ca/news/u-t-s-fisher-library-now-has-one-canada-s-oldest-pr
 - Loughran, Trish. ‘Books in the Nation’. In *The Cambridge Companion to the History of the Book,* edited by Leslie Howsam, 36–52. Cambridge: Cambridge University Press, 2014. <https://doi.org/10.1017/CCO9781139152242.004>.
 - McGill, Meredith L. ‘Copyright and Intellectual Property: The State of the Discipline’. *Book History* 16, no. 1 (31 October 2013): 387–427. <https://doi.org/10.1353/bh.2013.0010>.
 
-### Optional
+### Background
 
 - Bruce, Lorne. *Free Books for All: The Public Library Movement in Ontario, 1850–1930.* Toronto: Dundurn Press, 1994.
 - Gameson, Richard. ‘The Medieval Library (to *c.* 1450)’. In *The Cambridge History of Libraries in Britain and Ireland,* edited by Elisabeth Leedham-Green and Teresa Webber, 1:13–50. Cambridge: Cambridge University Press, 2006. <https://doi.org/10.1017/CHOL9780521781947.003>.
 - Shep, Sydney J. ‘Digital Materiality’. In *A New Companion to Digital Humanities,* edited by Susan Schreibman, Ray Siemens, and John Unsworth, 322–30. Chichester, West Sussex: Wiley–Blackwell, 2015. <https://doi.org/10.1002/9781118680605.ch22>.
 - Too, Yun Lee. *The Idea of the Library in the Ancient World*. Oxford: Oxford University Press, 2010. <https://doi.org/10.1093/acprof:oso/9780199577804.001.0001>.
 - Wiegand, Wayne A. ‘Libraries and the Invention of Information’. In *A Companion to the History of the Book,* edited by Simon Eliot and Jonathan Rose, 531–43. Malden, MA: Blackwell, 2007. <https://doi.org/10.1002/9780470690949.ch39>.
-
-### At-home lab review
-
-- Ovadia, Steven. ‘Markdown for Librarians and Academics’. *Behavioral & Social Sciences Librarian* 33, no. 2 (2014): 120–24. <https://doi.org/10.1080/01639269.2014.904696>.
-- Tenen, Dennis, and Grant Wythoff. ‘[Sustainable Authorship in Plain Text Using Pandoc and Markdown](https://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)’. *Programming Historian*, 19 March 2014.
 
 ## 11. Tuesday, 27 March
 
@@ -271,7 +275,7 @@ https://www.utoronto.ca/news/u-t-s-fisher-library-now-has-one-canada-s-oldest-pr
 - Maxwell, John W. ‘Coach House Press in the “Early Digital” Period: A Celebration’. *The Devil’s Artisan: A Journal of the Printing Arts* 77 (2015): 9–20. <https://publishing.sfu.ca/2015/12/coach-house-press-early-digital-period/>.
 - Ray Murray, Padmini, and Claire Squires. ‘The Digital Publishing Communications Circuit’. *Book 2.0* 3, no. 1 (June 2013): 3–23. <https://doi.org/10.1386/btwo.3.1.3_1>. [[University of Toronto access](http://search.ebscohost.com.myaccess.library.utoronto.ca/login.aspx?direct=true&db=aft&AN=95304970&site=ehost-live)]
 
-### Optional
+### Background
 
 - Eichhorn, Kate. ‘The Digital Turn in Canadian and Québécois Literature’. In *The Oxford Handbook of Canadian Literature,* edited by Cynthia Sugars. New York: Oxford University Press, 2016. <https://doi.org/10.1093/oxfordhb/9780199941865.013.28>.
 - Eve, Martin Paul. *Open Access and the Humanities: Contexts, Controversies and the Future.* Cambridge: Cambridge University Press, 2014. <https://doi.org/10.1017/CBO9781316161012>.
@@ -294,7 +298,7 @@ https://www.utoronto.ca/news/u-t-s-fisher-library-now-has-one-canada-s-oldest-pr
 - Helfer, Laurence R., Molly K. Land, Ruth L. Okediji, and Jerome H. Reichman. ‘Guiding Principles for the Marrakesh Treaty’. In *The World Blind Union Guide to the Marrakesh Treaty: Facilitating Access to Books for Print-Disabled Individuals,* 1–20. New York, NY: Oxford University Press, 2017. <https://doi.org/10.1093/acprof:oso/9780190679644.003.0002>.
 - Shep, Sydney J. ‘Books in Global Perspectives’. In *The Cambridge Companion to the History of the Book,* edited by Leslie Howsam, 53–70. Cambridge: Cambridge University Press, 2014. <https://doi.org/10.1017/CCO9781139152242.005>.
 
-### Optional
+### Background
 
 - Asheim, Lester. ‘New Problems in Plotting the Future of the Book’. *The Library Quarterly* 25, no. 4 (October 1955): 281–92. <https://doi.org/10.1086/618231>.
 - Phillips, Angus. ‘Does the Book Have a Future?’ In *A Companion to the History of the Book,* edited by Simon Eliot and Jonathan Rose, 545–59. Malden, MA: Blackwell, 2007. <https://doi.org/10.1002/9780470690949.ch40>.
