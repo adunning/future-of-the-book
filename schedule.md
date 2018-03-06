@@ -217,6 +217,7 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 - Baron, Naomi S. *Words Onscreen: The Fate of Reading in a Digital World.* New York: Oxford University Press, 2015. [[University of Toronto access](https://ebookcentral-proquest-com.myaccess.library.utoronto.ca/lib/utoronto/detail.action?docID=1884055)]
 - Chadwyck-Healey, Charles. ‘The New Textual Technologies’. In *A Companion to the History of the Book,* edited by Simon Eliot and Jonathan Rose, 451–63. Malden, MA: Blackwell, 2007. <https://doi.org/10.1002/9780470690949.ch33>.
 - Galey, Alan. ‘The Enkindling Reciter: E-Books in the Bibliographical Imagination’. *Book History* 15, no. 1 (18 October 2012): 210–47. <https://doi.org/10.1353/bh.2012.0008>.
+- Kirschenbaum, Matthew G. *Track Changes: A Literary History of Word Processing.* Cambridge, MA: Belknap Press, 2016. [[University of Toronto access](https://ebookcentral-proquest-com.myaccess.library.utoronto.ca/lib/utoronto/detail.action?docID=4510805)]
 - Mroczek, Eva. ‘Thinking Digitally About the Dead Sea Scrolls: Book History Before and Beyond the Book’. *Book History* 14, no. 1 (9 November 2011): 241–69. <https://doi.org/10.1353/bh.2011.0006>.
 - Rowberry, Simon Peter. ‘Ebookness’. *Convergence* 23, no. 3 (June 2017): 289–305. <https://doi.org/10.1177/1354856515592509>.
 - Rubery, Matthew. ‘Canned Literature: The Book after Edison’. *Book History* 16, no. 1 (31 October 2013): 215–45. <https://doi.org/10.1353/bh.2013.0012>.
