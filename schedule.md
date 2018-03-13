@@ -226,7 +226,6 @@ MS Schönborn 2
 ### Background
 
 - Barchas, Janine. ‘Sense, Sensibility, and Soap: An Unexpected Case Study in Digital Resources for Book History’. *Book History* 16, no. 1 (31 October 2013): 185–214. <https://doi.org/10.1353/bh.2013.0015>.
-- Bringhurst, Robert. *The Surface of Meaning: Books and Book Design in Canada.* Vancouver, BC: CCSP Press, 2008. [on course reserve]
 - Luna, Paul. ‘Books and Bits: Texts and Technology 1970–2000’. In *A Companion to the History of the Book,* edited by Simon Eliot and Jonathan Rose, 381–94. Malden, MA: Blackwell, 2007. <https://doi.org/10.1002/9780470690949.ch28>.
 - McKitterick, David. ‘Changes in the Look of the Book’. In *The Cambridge History of the Book in Britain*, edited by David McKitterick, 6:75–116. Cambridge: Cambridge University Press, 2009. <https://doi.org/10.1017/CHOL9780521866248.003>.
 - Robertson, Frances. *Print Culture: From Steam Press to Ebook.* Directions in Cultural History. London: Routledge, 2013. <https://doi.org/10.4324/9780203144206>.
@@ -279,7 +278,7 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 : Plutarch, *Vitae illustrium uirorum* (Venice: Nicolas Jenson, 1478)
 
 [stc 01210](http://go.utlib.ca/cat/10308497)
-: *The Booke of Common Prayer* (London: Edward Whitchurche, 1549) \[On the prayer book's significance in the development of English, see Alan Jacobs, *The Book of Common Prayer: A Biography* (Princeton, NJ: Princeton University Press, 2013).\]
+: *The Booke of Common Prayer* (London: Edward Whitchurche, 1549)
 
 [gal 00028](http://go.utlib.ca/cat/3778902)
 : Claude Guillermet de Bérigard, *Dubitationes in Dialogum Galilaei Galilaei Lyncei* (Florence: Pietro Nesti, 1632)
@@ -339,10 +338,16 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 : *The Holy Bible*, designed by Bruce Rogers (Oxford: Oxford University Press, 1935) \[The book that that made Centaur famous, now the University of Toronto's corporate typeface. See further Bruce Rogers, *An Account of the Making of the Oxford Lectern Bible* (Philadelphia, PA: Lanston Monotype, 1936): Fisher, [rogers pam 00025](http://go.utlib.ca/cat/430551).\]
 
 [duff 02694](http://go.utlib.ca/cat/1257113)
-: Patricia Ainslie and Paul Ritscher, *Endgrain: Contemporary Wood Engraving in North America* (Mission, BC: Barbarian Press, 1994) [Featured with other Canadian book designs in Robert Bringhurst, *The Surface of Meaning: Books and Book Design in Canada* (Vancouver, BC: CCSP Press, 2008).]
+: Patricia Ainslie and Paul Ritscher, *Endgrain: Contemporary Wood Engraving in North America* (Mission, BC: Barbarian Press, 1994)
 
 [canlit offsite 14701](http://go.utlib.ca/cat/4881687)
 : Robert Bringhurst, *Ursa Major: A Polyphonic Masque for Speakers and Dancers* (Kentville, NS: Gaspereau Press, 2003)
+
+### Background
+
+- Bringhurst, Robert. *The Surface of Meaning: Books and Book Design in Canada.* Vancouver, BC: CCSP Press, 2008. [on course reserve]
+- Jacobs, Alan. *The Book of Common Prayer: A Biography.* Princeton, NJ: Princeton University Press, 2013.
+- Nash, Andrew. ‘The Serialization and Publication of *The Return of the Native*: A New Thomas Hardy Letter’. *The Library* 2, no. 1 (March 2001): 53–59. <https://doi.org/10.1093/library/2.1.53>.
 
 ## 10. Tuesday, 20 March
 
