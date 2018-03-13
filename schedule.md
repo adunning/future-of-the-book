@@ -78,7 +78,7 @@ Note: links to subscription resources will work only when accessed through the u
 
 ## 4. Tuesday, 30 January: *Class in Fisher Rare Book Library*
 
-Study of premodern books in the seminar room (ground floor).
+Study of manuscripts in the seminar room (ground floor).
 
 Due to space constraints, the class will be split into two sessions: 9:10–10:30 (surnames beginning with A to K) and 10:40–12:00 (L to Z).
 
@@ -88,24 +88,59 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 
 ### Items viewed at the Fisher Library
 
-- [MS Coll. 175](http://go.utlib.ca/cat/5445458): Collection of papyri, 3rd century BC–3rd century AD
-- [Frideberg MSS 9-004](http://go.utlib.ca/cat/2865504): Collection of fragments from the Cairo Geniza, 11th–14th centuries
-- [MS 5321](http://go.utlib.ca/cat/7405049): Hugh of Fouilloy, *De claustro animae*, France, 1140s–1150s ([additional images](http://www.textmanuscripts.com/medieval/hugo-folieto-claustro-animae-60752))
-- [MS 3369](http://go.utlib.ca/cat/9990781): Hugh of Saint-Victor, *Homilies on Solomon's Ecclesiastes*, Spain, 1170s–1190s ([additional images](http://www.textmanuscripts.com/medieval/hugh-saint-victor-homiles-60953))
-- [MS 4404](http://go.utlib.ca/cat/4731506): William of Wycombe, *Life of Robert de Béthune*, England, 1190s–1200s
-- MS Schönborn 2: Bible, Bologna, 1270s–1280s
-- [MS 1125](http://go.utlib.ca/cat/4716761): Peter Lombard, *Sentences*, England, 1280s–1290s
-- [MS Coll. 267](http://go.utlib.ca/cat/5406142): Collection of leaves from illuminated manuscripts, 13th to 15th centuries
-- [MS 5242](http://go.utlib.ca/cat/4993102): Albert of Saxony, *Questions on Aristotle's 'On the Heavens'*, Siena, 1407
-- [MS 9700](http://go.utlib.ca/cat/4747704): Antiphonary, Florence?, 1400s–1430s
-- [MS 1123](http://go.utlib.ca/cat/3799824): Office of the Virgin Mary for the Dominican order, written in the area of Naples and Taranto, 1423–1460s
-- [MS 5288](http://go.utlib.ca/cat/4338857): Augustine, *The City of God*, Germany, 1430s–1470s
-- [Walsh f 00004](http://go.utlib.ca/cat/4734946): printed copy of John Duns Scotus's commentary on Peter Lombard's *Sentences* (Venice, 1476)
-- [The 'Nuremberg Chronicle'](http://go.utlib.ca/cat/3685386): Hartmann Schedel, *Liber chronicarum* (Nuremberg, 12 July 1493)
-- [MS 8009](http://go.utlib.ca/cat/6988141): Sinhalese handbook of treatment, 1720s
-- [MS 1239](http://go.utlib.ca/cat/6103899): Qur'an, Istanbul, 18th century
-- [MS 8007](http://go.utlib.ca/cat/4633714): Tiḳun lel Shavuʻot, 18th century
-- [MS 8002](http://go.utlib.ca/cat/6965217): scroll of Esther, 19th century
+[MS Coll. 175](http://go.utlib.ca/cat/5445458)
+: Collection of papyri, 3rd century BC–3rd century AD
+
+[Frideberg MSS 9-004](http://go.utlib.ca/cat/2865504)
+: Collection of fragments from the Cairo Geniza, 11th–14th centuries
+
+[MS 5321](http://go.utlib.ca/cat/7405049)
+: Hugh of Fouilloy, *De claustro animae*, France, 1140s–1150s ([additional images](http://www.textmanuscripts.com/medieval/hugo-folieto-claustro-animae-60752))
+
+[MS 3369](http://go.utlib.ca/cat/9990781)
+: Hugh of Saint-Victor, *Homilies on Solomon's Ecclesiastes*, Spain, 1170s–1190s ([additional images](http://www.textmanuscripts.com/medieval/hugh-saint-victor-homiles-60953))
+
+[MS 4404](http://go.utlib.ca/cat/4731506)
+: William of Wycombe, *Life of Robert de Béthune*, England, 1190s–1200s
+
+MS Schönborn 2
+: Bible, Bologna, 1270s–1280s
+
+[MS 1125](http://go.utlib.ca/cat/4716761)
+: Peter Lombard, *Sentences*, England, 1280s–1290s
+
+[MS Coll. 267](http://go.utlib.ca/cat/5406142)
+: Collection of leaves from illuminated manuscripts, 13th to 15th centuries
+
+[MS 5242](http://go.utlib.ca/cat/4993102)
+: Albert of Saxony, *Questions on Aristotle's 'On the Heavens'*, Siena, 1407
+
+[MS 9700](http://go.utlib.ca/cat/4747704)
+: Antiphonary, Florence?, 1400s–1430s
+
+[MS 1123](http://go.utlib.ca/cat/3799824)
+: Office of the Virgin Mary for the Dominican order, written in the area of Naples and Taranto, 1423–1460s
+
+[MS 5288](http://go.utlib.ca/cat/4338857)
+: Augustine, *The City of God*, Germany, 1430s–1470s
+
+[Walsh f 00004](http://go.utlib.ca/cat/4734946)
+: printed copy of John Duns Scotus's commentary on Peter Lombard's *Sentences* (Venice, 1476)
+
+[inc ff](http://go.utlib.ca/cat/3685386)
+: The 'Nuremberg Chronicle': Hartmann Schedel, *Liber chronicarum* (Nuremberg, 12 July 1493)
+
+[MS 8009](http://go.utlib.ca/cat/6988141)
+: Sinhalese handbook of treatment, 1720s
+
+[MS 1239](http://go.utlib.ca/cat/6103899)
+: Qur'an, Istanbul, 18th century
+
+[MS 8007](http://go.utlib.ca/cat/4633714)
+: Tiḳun lel Shavuʻot, 18th century
+
+[MS 8002](http://go.utlib.ca/cat/6965217)
+: scroll of Esther, 19th century
 
 ## 5. Tuesday, 6 February
 
@@ -230,7 +265,7 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 
 ## 9. Tuesday, 13 March: *Class in Fisher Rare Book Library*
 
-Study of archives and printed books in the seminar room (ground floor).
+Study of typography and printing in the seminar room (ground floor).
 
 Due to space constraints, the class will be split into two sessions: 9:10–10:30 (surnames beginning with A to K) and 10:40–12:00 (L to Z).
 
@@ -238,12 +273,76 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 
 - Bode, Katherine, and Roger Osborne. ‘Book History from the Archival Record’. In *The Cambridge Companion to the History of the Book,* edited by Leslie Howsam, 219–36. Cambridge: Cambridge University Press, 2014. <https://doi.org/10.1017/CCO9781139152242.016>.
 
+### Items viewed at the Fisher Library
 
+[inc f 00019](http://go.utlib.ca/cat/3783149)
+: Plutarch, *Vitae illustrium uirorum* (Venice: Nicolas Jenson, 1478)
 
-<!-- ### Items viewed at the Fisher Library
+[stc 01210](http://go.utlib.ca/cat/10308497)
+: *The Booke of Common Prayer* (London: Edward Whitchurche, 1549) \[On the prayer book's significance in the development of English, see Alan Jacobs, *The Book of Common Prayer: A Biography* (Princeton, NJ: Princeton University Press, 2013).\]
 
-- [MSS 03043](http://go.utlib.ca/cat/4721991): Fenestella, *The Roman Magistrates*, Italy, 1470s–1490s ([article](https://fisher.library.utoronto.ca/sites/fisher.library.utoronto.ca/files/halcyon_dec_2007.pdf))
-https://www.utoronto.ca/news/u-t-s-fisher-library-now-has-one-canada-s-oldest-printed-books -->
+[gal 00028](http://go.utlib.ca/cat/3778902)
+: Claude Guillermet de Bérigard, *Dubitationes in Dialogum Galilaei Galilaei Lyncei* (Florence: Pietro Nesti, 1632)
+
+[E-10 00480](http://go.utlib.ca/cat/3878255)
+: *The Book of Common Prayer* (London, 1662)
+
+[E-10 07820](http://go.utlib.ca/cat/8503261)
+: 'Price current' (Halifax, NS: John Bushell, 1752) \[Commodity price list of Nathans and Hart. The earliest printed artifact relating to Jews in Canada: discussed in Barry Dov Walfish, *"As it is written": Judaic Treasures from the Thomas Fisher Rare Book Library* (Toronto, 2015), no. 84.\]
+
+[E-10 04048](http://go.utlib.ca/cat/3852889)
+: *The Book of Common Prayer* (Cambridge: Baskerville, 1761)
+
+[E-10 01142](http://go.utlib.ca/cat/3880656)
+: Plautus, *Trinummus* (Parma: Bodoni, 1780)
+
+[duff pam ff 00007](http://go.utlib.ca/cat/4635516)
+: William Caslon, *A Specimen of Printing Types* (London, 1786?)
+
+[B-10 05667](http://go.utlib.ca/cat/3833038)
+: *Pride and Prejudice*, 3 vols (London: Egerton, 1813)
+
+[B-10 06746](http://go.utlib.ca/cat/3836690)
+: James Evans and George Henry, *Nu-gu-mo-nun O-je-boa an-oad ge-gë-se-üu-ne-gu-noo-du-be-üng uoô Muun-gou-duuz* (New York: Fanshaw, 1837) [Ojibwa hymn book.]
+
+[G-10 00057](http://go.utlib.ca/cat/3891500)
+: Owen Jones, *The Grammar of Ornament*, illustrated by Francis Bedford (London: Day, 1856)
+
+[B-13 03470](http://go.utlib.ca/cat/7164587)
+: excerpts from the *Qur'an* (Bulaq, 1867)
+
+[E-10 06742](http://go.utlib.ca/cat/5834729)
+: *The Communion and Other Services* (Oxford: University Press, 1872)
+
+[hardy .H378 R478 1878b](http://go.utlib.ca/cat/10385059)
+: Thomas Hardy, *The Return of the Native* (London: Chatto and Windus, 1878) [First appearance: twelve monthly instalments in *Belgravia*, 1878, each with a full-page illustration by Arthur Hopkins.]
+
+[hardy .H378 R478 1878](http://go.utlib.ca/cat/3729172)
+: Thomas Hardy, *The Return of the Native*, 3 vols (London: Smith, Elder, 1878) [First version published in 'book' format, as a three-volume novel.]
+
+[hardy .H378 R478 1878a](http://go.utlib.ca/cat/10184380)
+: Thomas Hardy, *The Return of the Native*, in *Harper's New Monthly Magazine* 56, nos. 334–335 (March–April 1878) \[American edition; lacks illustrations.\]
+
+[hardy .H378 R478 1890](hardy .H378 R478 1890)
+: Thomas Hardy, *The Return of the Native* (London: Sampson Low, Marston, Searle & Rivington, 1890) ['Yellowback' version.]
+
+[smb 01573](http://go.utlib.ca/cat/4589397)
+: *The Book of Common Prayer* (Toronto: University Press, 1922)
+
+[E-10 01158](http://go.utlib.ca/cat/3880689)
+: *The Four Gospels of the Lord Jesus Christ*, illustrated by Eric Gill (Waltham St Lawrence, Berkshire: Golden Cockerel Press, 1931) \[Details at the [Royal Collection Trust](https://www.royalcollection.org.uk/collection/1052088/the-four-gospels).\]
+
+[B-13 07526](http://go.utlib.ca/cat/9258146)
+: A.G. Morice, *ᑐᔆᘼᔆ ᐁᘁᗒᐪ ᗟᘇᙆᑐᘬ / Carrier Prayer-Book / Livre de prières à l'usage de la tribu des Porteurs*, 2nd ed. (\[Fort St James, BC\]: Stuart's Lake Mission, 1933)
+
+[rogers ff 00005](http://go.utlib.ca/cat/6279587)
+: *The Holy Bible*, designed by Bruce Rogers (Oxford: Oxford University Press, 1935) \[The book that that made Centaur famous, now the University of Toronto's corporate typeface. See further Bruce Rogers, *An Account of the Making of the Oxford Lectern Bible* (Philadelphia, PA: Lanston Monotype, 1936): Fisher, [rogers pam 00025](http://go.utlib.ca/cat/430551).\]
+
+[duff 02694](http://go.utlib.ca/cat/1257113)
+: Patricia Ainslie and Paul Ritscher, *Endgrain: Contemporary Wood Engraving in North America* (Mission, BC: Barbarian Press, 1994) [Featured with other Canadian book designs in Robert Bringhurst, *The Surface of Meaning: Books and Book Design in Canada* (Vancouver, BC: CCSP Press, 2008).]
+
+[canlit offsite 14701](http://go.utlib.ca/cat/4881687)
+: Robert Bringhurst, *Ursa Major: A Polyphonic Masque for Speakers and Dancers* (Kentville, NS: Gaspereau Press, 2003)
 
 ## 10. Tuesday, 20 March
 
