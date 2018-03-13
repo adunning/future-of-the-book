@@ -352,7 +352,7 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 ## 10. Tuesday, 20 March
 
 - Local books: Libraries as repositories of intellectual property and cultural heritage property
-- Lab: Technology independence and Pandoc
+- Lab: Web accessibility and e-books
 
 ### Read
 
@@ -367,6 +367,10 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 - Shep, Sydney J. ‘Digital Materiality’. In *A New Companion to Digital Humanities,* edited by Susan Schreibman, Ray Siemens, and John Unsworth, 322–30. Chichester, West Sussex: Wiley–Blackwell, 2015. <https://doi.org/10.1002/9781118680605.ch22>.
 - Too, Yun Lee. *The Idea of the Library in the Ancient World*. Oxford: Oxford University Press, 2010. <https://doi.org/10.1093/acprof:oso/9780199577804.001.0001>.
 - Wiegand, Wayne A. ‘Libraries and the Invention of Information’. In *A Companion to the History of the Book,* edited by Simon Eliot and Jonathan Rose, 531–43. Malden, MA: Blackwell, 2007. <https://doi.org/10.1002/9780470690949.ch39>.
+
+### At-home lab review
+
+- Raduenzel, Beth. '[A DIY Web Accessibility Blueprint](http://alistapart.com/article/diy-web-accessibility-blueprint)'. *A List Apart*, 13 March 2018.
 
 ## 11. Tuesday, 27 March
 

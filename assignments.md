@@ -56,9 +56,21 @@ The submitted assignment will include the following files:
 
 1. An HTML version of your book designed for viewing in a web browser.
 2. An EPUB file designed for use with e-readers.
-3. A report of around 1,500–1,800 words with a rationale for your encoding and presentation (integrating what you previously submitted in an edited form), and reflecting on how the process of digitization can lead to new ways to understand the material, what is gained or lost in the process, and how the work could be made more accessible with further work. In some cases, you may wish to consult with the original collection item.
+3. A report of around 1,500–1,800 words.
 
-This assignment will be graded on the appropriateness of the selected material, the clarity and critical strength of the written rationale, the quality of the writing, and how well the submitted documents reflect concepts discussed in class and readings up to this point.
+The design of your submission does not necessarily need to replicate the design of the original.
+
+The report can integrate the text you previously submitted for the first lab assignment, and might include discussion of the following:
+
+- a rationale for your encoding and presentation (perhaps a walkthrough of the original book's design choices, and how you have decided to adapt these elements to a digital context);
+- how the process of digitization can lead to new ways of understanding the material;
+- what is gained or lost in the digitizaton process;
+- how the work could be made more accessible with further work;
+- the shortcomings you found in tools for creating and reading digital books, and how they might be improved to enhance communication.
+
+Not all of these considerations will be applicable to every book. In some cases, you may wish to consult the original collection item to compare reading experiences.
+
+This assignment will be graded on the appropriateness of the selected material, the clarity and critical strength of the written rationale, the quality of the writing, and how well the submitted documents reflect concepts discussed in class and readings up to this point. 
 
 ### Sample sources
 
