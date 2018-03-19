@@ -370,6 +370,7 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 
 ### At-home lab review
 
+- [Pandoc ebook template](https://github.com/adunning/pandoc-ebook)
 - Raduenzel, Beth. '[A DIY Web Accessibility Blueprint](http://alistapart.com/article/diy-web-accessibility-blueprint)'. *A List Apart*, 13 March 2018.
 
 ## 11. Tuesday, 27 March
