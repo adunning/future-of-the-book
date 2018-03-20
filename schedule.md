@@ -352,7 +352,7 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 ## 10. Tuesday, 20 March
 
 - Local books: Libraries as repositories of intellectual property and cultural heritage property
-- Lab: Web accessibility and e-books
+- Lab: Automating production with Make
 
 ### Read
 
@@ -370,8 +370,9 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 
 ### At-home lab review
 
+- [Creating an e-book with Pandoc](https://pandoc.org/epub.html)
 - [Pandoc ebook template](https://github.com/adunning/pandoc-ebook)
-- Raduenzel, Beth. '[A DIY Web Accessibility Blueprint](http://alistapart.com/article/diy-web-accessibility-blueprint)'. *A List Apart*, 13 March 2018.
+- [Software Carpentry: Automation and Make](https://swcarpentry.github.io/make-novice/)
 
 ## 11. Tuesday, 27 March
 
@@ -394,7 +395,7 @@ Due to space constraints, the class will be split into two sessions: 9:10–10:3
 
 ### At-home lab review
 
-- *in-class materials*: [Creating an e-book with Pandoc](https://pandoc.org/epub.html)
+- Raduenzel, Beth. '[A DIY Web Accessibility Blueprint](http://alistapart.com/article/diy-web-accessibility-blueprint)'. *A List Apart*, 13 March 2018.
 
 28 March
 : *Lab 2 due*
